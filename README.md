@@ -1,24 +1,29 @@
-# README
+## TravelPlanner
+TravelPlanner is a web application that allows a user to plan trips for themselves, and look at maps that correspond to the trip location.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Motivation
+This project was the inspiration for the project TripList.
 
-Things you may want to cover:
+## Link to Demo Video
+https://www.youtube.com/watch?v=Qt7fr4te-YA
 
-* Ruby version
+## Screenshots
+![alt text](https://github.com/BrianRyu/TripPlanner-FE/blob/master/src/assets/TripPlannerScreenshot.png "TravelPlanner Screenshot")
 
-* System dependencies
+## Tech/framework used
+Built with React.js and a Ruby on Rails backend
 
-* Configuration
+## API Reference
+https://github.com/merestrickland/TripPlannerAPI
 
-* Database creation
+## Available Scripts
 
-* Database initialization
+In the project directory, you can run:
 
-* How to run the test suite
+### `npm start`
 
-* Services (job queues, cache servers, search engines, etc.)
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-* Deployment instructions
-
-* ...
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
