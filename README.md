@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=Qt7fr4te-YA
 ## Tech/framework used
 Built with React.js and a Ruby on Rails backend
 
-## API Reference
-https://github.com/merestrickland/TripPlannerAPI
+## Front End Reference
+https://github.com/merestrickland/TravelPlanner-FE
 
 ## Available Scripts
 
